@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-eqo6dh.casinosnearme.ca/sitemap.xml
